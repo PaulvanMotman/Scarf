@@ -1,11 +1,7 @@
-![Sadaka screenshot](/screenshot.jpg?raw=true "Sadaka screenshot")
+#SCARF Website
+This is a website for the organization SCARF using the Sadaka template.
 
-Sadaka is a nice responsive html5 template built with the latest version of bootstrap framework Sass & Compass (sass files are included).
-
-Sadaka is destined to charity, non-profit organizations websites, this template allows them to present themselves and collect donations for their causes.
-
-##### [ Demo ](http://demo.ouarmedia.com/sadaka) - [ Download ](https://github.com/farouk2u/sadaka/archive/v1.0.zip)
-
+Team members: Paul van Motman and Tiffany Yu
 
 ##Features
 - Bootstrap 3.3 
@@ -20,7 +16,14 @@ Sadaka is destined to charity, non-profit organizations websites, this template 
 - Valid Html code
 
 ##Credits
-#### Ressources
+
+Sadaka is a nice responsive html5 template built with the latest version of bootstrap framework Sass & Compass (sass files are included).
+
+Sadaka is destined to charity, non-profit organizations websites, this template allows them to present themselves and collect donations for their causes.
+
+##### [ Demo ](http://demo.ouarmedia.com/sadaka) - [ Download ](https://github.com/farouk2u/sadaka/archive/v1.0.zip)
+
+#### Resources
 - jQuery 1.11.1 - [http://jquery.com/](http://jquery.com/) 
 - Bootstrap 3.3.1  - [http://getbootstrap.com/](http://getbootstrap.com/) 
 - Modernizr 2.6.2 - [http://modernizr.com/](http://modernizr.com/) 
