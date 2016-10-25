@@ -1,0 +1,23 @@
+{
+  "name": "Scarf",
+  "version": "1.0.0",
+  "description": "![Sadaka screenshot](/screenshot.jpg?raw=true \"Sadaka screenshot\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulvanMotman/Scarf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulvanMotman/Scarf/issues"
+  },
+  "homepage": "https://github.com/PaulvanMotman/Scarf#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
